@@ -20,15 +20,12 @@ How does household income level relate to obesity prevalence in 2023? How has th
 **Importance:**
 This question is important because it allows one to see how obesity correlates with different income levels and how that relationship changes over time. One can then identify the proportion of incomes that need the most initiatives and resources and budget those resources accordingly. This helps policy-makers to understand the degree of which incomes are contributing to obesity levels and put policies in place based on the degree of which income is a factor. The second part of the question is important because the trends of obesity levels based on income would help the ability to predict the next levels of obesity and anticipate that change. It can also lead them to conclude what types of events cause certain spikes in obesity levels at certain incomes so they can plan initiatives accordingly if events in a future year mimic those that were in a previous year.
 
-
 ![IMG_5372](https://github.com/user-attachments/assets/ad59093c-5b65-4bfc-9aa7-8aa53c98ab76)
-
 
 **Graph 1 Description and Results:**
 The first graph illustrates the percentage of the population that is obese in each income group. Obesity is the most prevalent in the less than $15,000 a year individuals with an obesity percentage of 35.688% and declines as the individual makes more money. We analyze these rates over time in the next visualization.
 
-![plot](./Question1.2.png)
-
+![IMG_6131](https://github.com/user-attachments/assets/716c1290-0e21-4a87-a458-6a2a3d2f085b)
 
 **Graph 2 Description and Results:**
 To see the trends of the results up until the present year, we graphed these obesity percentages of each income group over time. This would further the findings of the last problem by solidifying the results as a trend over 12 years and show how this relationship evolved over a timeline. While the hierarchy of income to obesity stays relatively constant, certain spikes can be observed, such as the $75,000+ group spiking significantly and aligning more with the other groups in 2020 most likely due to the pandemic. In addition, it is shown that obesity percentages in all groups have consistently trended upwards. This could allow those using the data to predict that obesity will continue to increase and put plans in place with that in mind. The obesity percentages shown in the previous graph are given the context of being the closest the percentages have been in the past 12 years. Therefore, the strategy at which this data is addressed can be more accurate within the context by for example addressing the $75,000+ group with more separation due to their history and perhaps predicting a downward trend in that group.
@@ -43,12 +40,12 @@ What are the states in the U.S. that have the highest level of obesity to date? 
 **Importance:**
 This question is important because it analyzes how location and race/ethnicity are correlated with obesity rates in the continental U.S. This can help the government make decisions on who and where to target health programs towards. With concise data and visualizations, it is easier to ensure health programs are creating tangible results and lowering the obesity rates across America.
 
-![plot](./Question2.1.png)
+![IMG_5705](https://github.com/user-attachments/assets/33803e6c-6f7b-4bac-9b6c-6c49d9896382)
 
 **Graph 1 Description and Results:**
 This graph illustrates the obesity rates by state in 2023. We excluded Hawaii and Alaska in the data due to not being one of the 48 contiguous states. Alabama, Arkansas, Louisiana, Tennessee and West Virginia are the states with the highest level of obesity.
 
-![plot](./Question2.2.png)
+![IMG_7199](https://github.com/user-attachments/assets/4caa8c6a-c682-4ef0-b146-89100bd4740d)
 
 **Graph 2 Description and Results:**
 This graph depicts the obesity rates in 2023 in the states with the top 5 highest obesity rates broken up by race/ethnicity. We have excluded Asians due to lack of data on this race and Hawaiians/Pacific Islanders as we are focusing on the continental United States. Non-Hispanic Black people and people of 2 or more races have the highest obesity rates in these states. The top 5 states with the highest obesity rate are also all in the southeastern part of the United States.
