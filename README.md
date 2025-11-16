@@ -20,7 +20,8 @@ How does household income level relate to obesity prevalence in 2023? How has th
 **Importance:**
 This question is important because it allows one to see how obesity correlates with different income levels and how that relationship changes over time. One can then identify the proportion of incomes that need the most initiatives and resources and budget those resources accordingly. This helps policy-makers to understand the degree of which incomes are contributing to obesity levels and put policies in place based on the degree of which income is a factor. The second part of the question is important because the trends of obesity levels based on income would help the ability to predict the next levels of obesity and anticipate that change. It can also lead them to conclude what types of events cause certain spikes in obesity levels at certain incomes so they can plan initiatives accordingly if events in a future year mimic those that were in a previous year.
 
-![plot](./Question1.1.png)
+
+![IMG_5372](https://github.com/user-attachments/assets/ad59093c-5b65-4bfc-9aa7-8aa53c98ab76)
 
 
 **Graph 1 Description and Results:**
