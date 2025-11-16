@@ -1,5 +1,4 @@
 # MIST4610Project2
-# MIST4610Project2
 
 ## Team Name:
 59925 Group 1
